@@ -80,7 +80,7 @@ const ourClasses = ({ setSelectedPage }: Props) => {
 						description={item.description}
 						image={item.image}
 					/>
-            ))}
+				))}
 				</ul>
 			</div>
 		</motion.div>
